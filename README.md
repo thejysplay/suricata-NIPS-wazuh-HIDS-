@@ -1,4 +1,4 @@
-# suricata-IDS-IPS
+# suricata-NIPS-wazuh-HIDS-
 졸업프로젝트
 <pre>
   suricata와 wazuh를 이용한 NIPS HIDS 보안 솔루션 제안
